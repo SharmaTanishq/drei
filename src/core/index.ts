@@ -88,7 +88,6 @@ export * from './Environment'
 export * from './Lightformer'
 export * from './Sky'
 export * from './Stars'
-export * from './Cloud'
 export * from './useMatcapTexture'
 export * from './useNormalTexture'
 
